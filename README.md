@@ -1,2 +1,4 @@
-# select_all_slices
-Sketch app plugin to elect all slices
+# Select all slices for Sketch app
+
+Sketch app plugin to select all slices.
+
