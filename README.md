@@ -5,7 +5,7 @@ Sketch app plugin to select all slices.
 ## Download and Install
 
 1. Go release page and download latest version.
-2. Double click downloaded file
+2. Unzip downloaded file and double click unzipped file
 
 ## Usage
 
