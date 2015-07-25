@@ -1,0 +1,12 @@
+var onRun = function(context) {
+  log('Select all exportable in current page.');
+  
+  var doc = context.document
+  // Unselect everything
+  [[doc currentPage] deselectAllLayers]
+
+  var exportables = [[doc currentPage] exportableLayers]
+  for (var i = 0; i < [exportables length]; i++) {
+    [[exportables objectAtIndex:i] select:true byExpandingSelection:true]]
+  }
+};

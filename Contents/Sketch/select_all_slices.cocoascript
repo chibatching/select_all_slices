@@ -1,11 +1,11 @@
 var onRun = function(context) {
   log('Select all slice in page.');
   
-  // First, we’ll unselect everything
   var doc = context.document
+  // Unselect everything
   [[doc currentPage] deselectAllLayers]
 
-  // Now, let’s recursive execute through all layers:
+  // Recursive execute through all layers:
   selectSliceRecursive([doc currentPage])
 };
 
