@@ -1,6 +1,6 @@
 # Select all slices plugin for Sketch app
 
-Sketch app plugin to select all slices.
+Sketch app plugin to select all slices and exportables.
 
 ## Download and Install
 
@@ -9,6 +9,12 @@ Sketch app plugin to select all slices.
 
 ## Usage
 
-- Select from menu: `Plugins -> Select all slices -> Select all`
-- Use shortcut: `⇧⌘A`
+### Select all exportable in current page
 
+- Select from menu: `Plugins -> Select all slices -> Select all exportables`
+- Use shortcut: `⇧^E`
+
+### Select all slices in current page
+
+- Select from menu: `Plugins -> Select all slices -> Select all slices`
+- Use shortcut: `⇧^S`
