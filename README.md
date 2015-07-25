@@ -4,7 +4,7 @@ Sketch app plugin to select all slices and exportables.
 
 ## Download and Install
 
-1. Go [release page](https://github.com/chibatching/select_all_slices/releases) and download latest version.
+1. Go [latest release page](https://github.com/chibatching/select_all_slices/releases/latest) and download latest version.
 2. Unzip downloaded file and double click unzipped file
 
 ## Usage
