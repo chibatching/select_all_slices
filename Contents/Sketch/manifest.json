@@ -1,5 +1,11 @@
 {
   "author" : "chibatching",
+  "identifier" : "com.chibatching.select_all_slices",
+  "version" : "2.1",
+  "description" : "Select all slices and exportables in current page.",
+  "authorEmail" : "chibatching.apps@gmail.com",
+  "name" : "Select all slices",
+  "homepage" : "https://github.com/chibatching/select_all_slices",
   "commands" : [
     {
       "script" : "select_all_slices.js",
@@ -22,10 +28,5 @@
       "exportables"
     ],
     "title" : "Select all slices"
-  },
-  "identifier" : "com.chibatching.select_all_slices",
-  "version" : "2.1",
-  "description" : "Select all slices and exportables in current page.",
-  "authorEmail" : "chibatching.apps@gmail.com",
-  "name" : "Select all slices"
+  }
 }
