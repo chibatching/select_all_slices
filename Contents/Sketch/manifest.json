@@ -2,14 +2,14 @@
   "author" : "chibatching",
   "commands" : [
     {
-      "script" : "select_all_slices.cocoascript",
+      "script" : "select_all_slices.js",
       "handler" : "onRun",
       "shortcut" : "shift control s",
       "name" : "Select all slices",
       "identifier" : "slices"
     },
     {
-      "script" : "select_all_exportables.cocoascript",
+      "script" : "select_all_exportables.js",
       "handler" : "onRun",
       "shortcut" : "shift control e",
       "name" : "Select all exportables",
@@ -24,7 +24,7 @@
     "title" : "Select all slices"
   },
   "identifier" : "com.chibatching.select_all_slices",
-  "version" : "2.0",
+  "version" : "2.1",
   "description" : "Select all slices and exportables in current page.",
   "authorEmail" : "chibatching.apps@gmail.com",
   "name" : "Select all slices"
